@@ -1,3 +1,16 @@
 body{
   background-color: black;
 }
+h1{
+  background-color: #2D97D6;
+  text-color: white;
+}
+
+h4{
+  background-color: #DAEEF9;
+
+}
+
+.btn{
+   color: #004B80;
+}
